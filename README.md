@@ -1,5 +1,5 @@
 ## Amimacion en blender
-La animación frame by frame es una técnica fundamental dentro de la animación 2D que consiste en crear movimiento a partir de una secuencia de imágenes dibujadas individualmente. Cada fotograma representa una pequeña variación del anterior, lo que al reproducirse de manera continua genera la ilusión de movimiento.
+La animación "frame by frame" es una técnica fundamental dentro de la animación 2D que consiste en crear movimiento a partir de una secuencia de imágenes dibujadas individualmente. Cada fotograma representa una pequeña variación del anterior, lo que al reproducirse de manera continua genera la ilusión de movimiento.
 
 Este tipo de animación permite un mayor control sobre las poses y expresiones del personaje, ya que cada dibujo es elaborado manualmente. En este proyecto, se desarrolló un ciclo de caminata (walk cycle) adaptado a un conejo, tomando como base referencias visuales y aplicando principios básicos de animación como la continuidad, la fluidez y el uso de onion skin.
 
