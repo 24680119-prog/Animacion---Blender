@@ -56,7 +56,16 @@ Este proceso permitió mejorar la apariencia visual del personaje, haciéndolo m
 
 <img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/fc24821b-1f36-42c0-9340-517c5fc5eabb" />
 
+## Paso 9: Desarrollo de la animación frame by frame
+En este paso, se inició la creación de la animación mediante la técnica frame by frame. Para ello, se avanzaron 3 fotogramas en la línea de tiempo y se realizó nuevamente el trazado del personaje, tomando como referencia el dibujo anterior. Este proceso consistió en dibujar cada nueva pose del conejo ligeramente modificada respecto a la anterior, con el objetivo de generar la sensación de movimiento. Se utilizó la visualización de los dibujos previos (onion skin) como guía para mantener la coherencia en las proporciones y lograr una transición fluida entre cada fotograma. Este procedimiento se repitió a lo largo de toda la línea de tiempo hasta completar la secuencia de animación.
 
+<img width="589" height="283" alt="image" src="https://github.com/user-attachments/assets/a177a61d-4a19-42bd-a5ce-dc626eb176a2" />
 
+## Paso 10: Ajuste de posición de los fotogramas
 
+En este paso, se realizó el ajuste de posición de los dibujos en cada fotograma para mantener la coherencia del movimiento. Primero, se ubicó el cursor en el fotograma 1 y se cambió al modo edición (Edit Mode). Posteriormente, se seleccionó todo el dibujo utilizando la tecla A, y se procedió a moverlo con la tecla G (Grab), colocándolo en una posición centrada dentro de la escena.
+Este mismo procedimiento se aplicó en los demás fotogramas, ajustando cada dibujo de manera consistente. Esto permitió alinear correctamente las poses del personaje y lograr una animación más fluida y uniforme.
 
+<img width="488" height="656" alt="image" src="https://github.com/user-attachments/assets/07ef858c-a55b-4d65-bbbe-f2b2b43f1528" />
+
+## Paso 11 : 
