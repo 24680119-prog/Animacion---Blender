@@ -1,9 +1,9 @@
-##Amimacion en blender
+## Amimacion en blender
+La animación frame by frame es una técnica fundamental dentro de la animación 2D que consiste en crear movimiento a partir de una secuencia de imágenes dibujadas individualmente. Cada fotograma representa una pequeña variación del anterior, lo que al reproducirse de manera continua genera la ilusión de movimiento.
 
+Este tipo de animación permite un mayor control sobre las poses y expresiones del personaje, ya que cada dibujo es elaborado manualmente. En este proyecto, se desarrolló un ciclo de caminata (walk cycle) adaptado a un conejo, tomando como base referencias visuales y aplicando principios básicos de animación como la continuidad, la fluidez y el uso de onion skin.
 
-
-
-
+Para su realización, se utilizó Grease Pencil dentro de Blender, herramienta que facilita la creación de animaciones 2D en un entorno digital, permitiendo combinar técnicas tradicionales con herramientas modernas
 
 ## PASO 1:Configuracion inicial del entorno de trabajo
 Se inició el proceso eliminando el stroke predeterminado presente en la escena inicial, con el objetivo de trabajar desde un entorno limpio, Posteriormente, se creó una nueva escena utilizando la herramienta Grease Pencil, seleccionando la opción de lienzo en blanco. Esto permitió generar un nuevo stroke junto con un material base para comenzar el dibujo del personaje.
@@ -68,4 +68,7 @@ Este mismo procedimiento se aplicó en los demás fotogramas, ajustando cada dib
 
 <img width="488" height="656" alt="image" src="https://github.com/user-attachments/assets/07ef858c-a55b-4d65-bbbe-f2b2b43f1528" />
 
-## Paso 11 : 
+## Paso 11: Visualización del resultado final
+En este paso final se realizó la revisión de la animación completa dentro de la línea de tiempo, reproduciendo la secuencia de fotogramas para verificar la fluidez del movimiento del personaje, gracias a la organización de los dibujos y al uso de referencias visuales (onion skin) se logró una animación continua que simula el movimiento de salto del conejo, durante esta fase se identificó que en uno de los fotogramas el personaje no se visualizaba con claridad, lo que afectaba la continuidad de la secuencia, por lo que fue necesario realizar ajustes en la posición y en el trazo para mejorar la coherencia visual entre las poses y así lograr una mejor naturalidad en el movimiento.
+
+<img width="589" height="326" alt="image" src="https://github.com/user-attachments/assets/11e21939-d80a-4e4c-b2e7-d8d843c82679" />
