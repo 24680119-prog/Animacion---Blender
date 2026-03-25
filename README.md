@@ -31,13 +31,32 @@ De esta manera, cada imagen tiene el tiempo suficiente en pantalla para percibir
 
 <img width="589" height="63" alt="image" src="https://github.com/user-attachments/assets/db04dfbc-946d-4465-bc2b-0d5a95b6e96c" />
 
-## Paso 5: 
-
-
-
-
+## Paso 5: Organización de capas en Grease Pencil
+En este paso, se configuraron las capas dentro de Grease Pencil para organizar correctamente los elementos del dibujo. Se crearon y utilizaron diferentes capas, como “trazos” para las líneas del personaje y “relleno” para los colores. Esto permite trabajar de manera más ordenada, separando el contorno del relleno y facilitando futuras modificaciones. Además, se ajustaron las propiedades de visibilidad y bloqueo de cada capa, con el fin de evitar cambios accidentales durante el proceso de animación. Este proceso se realizó en el apartado de propiedades de Grease Pencil, específicamente en la sección de capas (Layers), donde se gestionan los elementos del dibujo.
 
 <img width="264" height="381" alt="image" src="https://github.com/user-attachments/assets/151c34ca-b7be-46a4-a812-64a1a61ccd3f" />
+
+## Paso 6: Inicio del trazado y animación en modo dibujo
+
+En este punto se comienza el desarrollo de la animación mediante el uso de Grease Pencil. Para ello, se cambió del modo objeto (Object Mode) al modo dibujo (Draw Mode), lo que permite habilitar la herramienta Pencil para realizar los trazos. A continuación, se ajustó la intensidad del trazo para mejorar la visibilidad de las líneas y se utilizó el color previamente definido en el material. Con estas configuraciones, se inició el proceso de dibujo frame por frame, siguiendo la referencia establecida para construir cada una de las poses del personaje.
+
+
+## Paso 7: Inicio del trazado en modo dibujo
+En este punto, se comenzó el proceso de dibujo del personaje utilizando Grease Pencil. Para ello, se cambió del modo objeto (Object Mode) al modo dibujo (Draw Mode), lo que permite habilitar la herramienta Pencil para realizar los trazos. Se ajustaron parámetros como la intensidad del trazo, con el fin de mejorar la visibilidad y calidad de las líneas. Posteriormente, se utilizó el color previamente asignado en el material para comenzar a dibujar el personaje, tomando como base la imagen de referencia.
+
+Durante el trazado, se emplearon herramientas como la selección de arco y curvas, lo que permitió crear líneas más suaves y precisas en las formas del dibujo. Una vez realizadas las curvas, se confirmaban los cambios presionando la tecla Enter, este procedimiento se repitió hasta completar todo el dibujo del personaje.
+
+<img width="589" height="477" alt="image" src="https://github.com/user-attachments/assets/cf74f096-2b8a-444c-b24d-3a211bd71876" />
+
+## Paso 8: Aplicación de relleno al dibujo
+
+Una vez finalizado el trazado del personaje, se procedió a aplicar color en las áreas internas del dibujo mediante la herramienta de relleno (Fill) de Grease Pencil. Para ello, se accedió al apartado de materiales, donde se seleccionaron los materiales previamente creados con color. Posteriormente, se utilizó la herramienta de relleno para aplicar dichos materiales en las zonas delimitadas por los trazos.
+
+Este proceso permitió mejorar la apariencia visual del personaje, haciéndolo más claro y definido. El relleno se aplicó cuidadosamente en cada parte del dibujo para mantener uniformidad y evitar errores en las áreas cerradas.
+
+<img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/fc24821b-1f36-42c0-9340-517c5fc5eabb" />
+
+
 
 
 
