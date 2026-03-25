@@ -19,4 +19,25 @@ Posteriormente, se activó la opción de relleno (Fill) y se asignó un color, p
 
 <img width="278" height="740" alt="image" src="https://github.com/user-attachments/assets/e249ca11-241d-48e7-83e4-598867c786f8" />
 
-## Paso 3: 
+## Paso 3: Inserción y ajuste de imagen de referencia
+Como siguiente paso, se agregó una imagen de referencia con el fin de guiar el proceso de dibujo y mantener proporciones adecuadas del personaje. Para ello, se accedió al menú Agregar (Add) y se seleccionó la opción Imagen → Referencia (Image Reference). Una vez insertada en la escena, la imagen fue ajustada en tamaño utilizando la tecla S (Scale), permitiendo adaptarla correctamente al área de trabajo.
+
+
+<img width="589" height="296" alt="image" src="https://github.com/user-attachments/assets/5562cc7b-9cb1-445c-bcf0-55c93e19df86" />
+
+## Paso 4: Configuración de la línea de tiempo
+En este paso, se organizó la duración de la animación dentro de la línea de tiempo. Para ello, se estableció el inicio en el fotograma 1 y el final en el fotograma 21. Esta configuración se realizó considerando un total de 7 imágenes (frames), asignando aproximadamente 3 fotogramas por cada una, lo que da como resultado una animación con una duración total de 3 segundos.
+De esta manera, cada imagen tiene el tiempo suficiente en pantalla para percibir correctamente el movimiento del personaje.
+
+<img width="589" height="63" alt="image" src="https://github.com/user-attachments/assets/db04dfbc-946d-4465-bc2b-0d5a95b6e96c" />
+
+## Paso 5: 
+
+
+
+
+
+<img width="264" height="381" alt="image" src="https://github.com/user-attachments/assets/151c34ca-b7be-46a4-a812-64a1a61ccd3f" />
+
+
+
